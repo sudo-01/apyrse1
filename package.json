@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pdftron/pdfnet-node": "^10.6.0-4"
+    "@pdftron/pdfnet-node": "^10.6.0-4",
+    "axios": "^1.6.2"
   }
 }
